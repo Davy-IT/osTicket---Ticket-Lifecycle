@@ -14,9 +14,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Log into Microsoft Azure and open osTicket virtual machine
 - Log into osTicket as an End-User
-- Create a ticket by clickling on "Open a New Ticket", set the priority of the ticket, and logoff
+- Create a ticket by clickling on "Open a New Ticket", set the priorities ( Department, SLA, Sev-A (1 hour, 24/7), Online Banking Department) of the ticket, and logoff
 - Log back in ass the Admin
-- Open the tickets, observe the tickets, and the priorities (Priority, Department, SLA, Sev-A (1 hour, 24/7), Online Banking Department)
+- Open the tickets, observe the tickets, and the priorities (Low, Normal, High, and Emergency)
 - Assign tickets an Help desk agents and select level of priority
 - Close tickets when the issues are resolved
 
