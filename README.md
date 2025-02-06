@@ -16,7 +16,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Log into osTicket as an End-User
 - Create a ticket by clickling on "Open a New Ticket", set the priority of the ticket, and logoff
 - Log back in ass the Admin
-- Open the tickets, observe the tickets, and the priorities (Priority, Department, SLA)
+- Open the tickets, observe the tickets, and the priorities (Priority, Department, SLA, Sev-A (1 hour, 24/7), Online Banking Department)
 - Assign tickets an Help desk agents and select level of priority
 - Close tickets when the issues are resolved
 
